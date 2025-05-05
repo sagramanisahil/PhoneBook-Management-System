@@ -1,0 +1,37 @@
+Contributers :
+
+1. Yumna Gul
+2. Sahil Kumar
+3. Nimrita Rani
+
+
+LINK TO VIDEO...
+
+
+
+
+
+Phone-Book-Application Description
+
+In today's world, where cellphones are an essential part of our lives, remembering all our colleagues' contacts is impractical. To address this, we save contacts permanently for future use and delete unnecessary ones as needed. For instance, when in a hurry to call a friend, searching by their full name or initials is far more efficient than scrolling through an entire contact list. Additionally, viewing contacts in ascending order makes it easier to locate names alphabetically.
+
+To cater to these needs, we have developed a Phonebook Application with the following features:
+
+-> Insert a contact
+-> Delete a contact
+-> Search by initials
+-> Sort contacts in ascending order
+-> Display all contacts
+-> Exit
+We implemented these functionalities using efficient data structures:
+
+Binary Search Tree (BST) and AVL Tree for insertion, deletion, and sorting.
+HashMap for quick search by initials.
+This application ensures seamless and efficient contact management tailored to everyday needs.
+
+
+#Instruction to run the project..
+
+ to run this project go to folder named as "executable file" there is phoneApplicationApp.exe download that and you can run the application.
+ there is is also the the installation file in the "INSTALLATION" go and click the PhoneApplicationSetup to install that application.
+ you can check the source code in the folder "Source"
